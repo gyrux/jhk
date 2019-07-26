@@ -78,7 +78,7 @@ redkassa.ru##html > body:style(background:none!important;)
 yandex.ru##.main_distro-footer_yes:style(margin:0!important;padding:0!important)
 
 ! Strict blocking rules
-||appvk.ru^
+||facebook.com^
 ||askfm.im^
 ||base2.ru^
 ||beryblog.ru^
